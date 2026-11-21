@@ -1,0 +1,229 @@
+{
+  "release": "theme-art",
+  "artworks": [
+    {
+      "id": "moonwater",
+      "name": "Moonwater",
+      "file": "moonwater-6d080bb4.webp",
+      "sizeBytes": 350522,
+      "sha256": "6d080bb4daa871d95cc0836de35d26adfbe72ed418eff348740b2d3868a71798"
+    },
+    {
+      "id": "glasshouse",
+      "name": "Glasshouse",
+      "file": "glasshouse-cc440129.webp",
+      "sizeBytes": 499062,
+      "sha256": "cc44012979bc456b13d845bcd75a5c8889a9126a2819cfee9429921aaa4b50ca"
+    },
+    {
+      "id": "red-earth",
+      "name": "Red Earth",
+      "file": "red-earth-41da3d9c.webp",
+      "sizeBytes": 178612,
+      "sha256": "41da3d9c551c8083d9d707d1ec0b851efc46856ccfe2b133194bae0e8179890d"
+    },
+    {
+      "id": "deep-current",
+      "name": "Deep Current",
+      "file": "deep-current-4060531d.webp",
+      "sizeBytes": 294282,
+      "sha256": "4060531dad7f13bb48cb7d73d95bbc60ed5f24ca69da3ad3958daa50d965703e"
+    },
+    {
+      "id": "night-garden",
+      "name": "Night Garden",
+      "file": "night-garden-29317325.webp",
+      "sizeBytes": 282744,
+      "sha256": "29317325308c19394aa7b56d053fcc60f593572c2dab81f62deb2e64d825ba7f"
+    },
+    {
+      "id": "nocturne-canyon",
+      "name": "Nocturne Canyon",
+      "file": "nocturne-canyon-87f5accc.webp",
+      "sizeBytes": 189330,
+      "sha256": "87f5accc7e668b918a68d67ef21cbcfe623088184e9c0940b35b0ee8062c5863"
+    },
+    {
+      "id": "inkstone",
+      "name": "Inkstone",
+      "file": "inkstone-53fbe6af.webp",
+      "sizeBytes": 189638,
+      "sha256": "53fbe6af737e817d671f8654aea9ca73393776f57949e7dd7a6ca3076cef4821"
+    },
+    {
+      "id": "firefly-forest",
+      "name": "Firefly Forest",
+      "file": "firefly-forest-9c0d8ff8.webp",
+      "sizeBytes": 168822,
+      "sha256": "9c0d8ff86fa22ee9dcdd3153ad4246231953ac94fee363c4f58ddf87cac3e4fc"
+    },
+    {
+      "id": "ember-forge",
+      "name": "Ember Forge",
+      "file": "ember-forge-403ad589.webp",
+      "sizeBytes": 93516,
+      "sha256": "403ad58947132977ddc15e530afef0f976e49c8272b4e6cc563ab6973b2dbf40"
+    },
+    {
+      "id": "synthwave-84",
+      "name": "Synthwave '84",
+      "file": "synthwave-84-6a0c9321.webp",
+      "sizeBytes": 173314,
+      "sha256": "6a0c9321e30d0d1e6e7ad6783a2809b63c4755910a98e887dc98ea4a3e6960a1"
+    },
+    {
+      "id": "polar-night",
+      "name": "Polar Night",
+      "file": "polar-night-a7184e97.webp",
+      "sizeBytes": 113042,
+      "sha256": "a7184e97de83d179f177f9235edceb50f3fa3cdd515c1244e8ffde8d81589c36"
+    },
+    {
+      "id": "orchid-dusk",
+      "name": "Orchid Dusk",
+      "file": "orchid-dusk-c26bc583.webp",
+      "sizeBytes": 106318,
+      "sha256": "c26bc583df15d8cf4e2fbd81875697cbb467da0f110a8c80bc405c92f98f4773"
+    },
+    {
+      "id": "mocha",
+      "name": "Catppuccin Mocha",
+      "file": "mocha-8fa2dbef.webp",
+      "sizeBytes": 230176,
+      "sha256": "8fa2dbeff395562f8a4bd10c0b2c0e2b09fa32747ad3253a90457e4b1af3d2ab"
+    },
+    {
+      "id": "macchiato",
+      "name": "Catppuccin Macchiato",
+      "file": "macchiato-fe4a4a57.webp",
+      "sizeBytes": 175542,
+      "sha256": "fe4a4a57fc2a97f8eb5ea5299665a6864802f62885b159d59ef31126346d506d"
+    },
+    {
+      "id": "frappe",
+      "name": "Catppuccin Frappé",
+      "file": "frappe-b05ee8d6.webp",
+      "sizeBytes": 134738,
+      "sha256": "b05ee8d6a57120310caefc7f579a5589cbd89c596e832ae02ce48dbec97ae025"
+    },
+    {
+      "id": "latte",
+      "name": "Catppuccin Latte",
+      "file": "latte-e6dc6509.webp",
+      "sizeBytes": 321008,
+      "sha256": "e6dc6509f235c677ecd98e57347afedb29a31040f79058030f3552a850344dc0"
+    },
+    {
+      "id": "dracula",
+      "name": "Dracula",
+      "file": "dracula-02d1beca.webp",
+      "sizeBytes": 210752,
+      "sha256": "02d1becadcb0326f62110da6f2d897786818c12e487bb30e8576146f1ce6c890"
+    },
+    {
+      "id": "alucard",
+      "name": "Alucard",
+      "file": "alucard-ff50ec47.webp",
+      "sizeBytes": 289726,
+      "sha256": "ff50ec477d2ce33f987c2f250886dfb29cb6e8a2ea7c286dd473c28556660345"
+    },
+    {
+      "id": "sol-dark",
+      "name": "Solarized Dark",
+      "file": "sol-dark-c423d3aa.webp",
+      "sizeBytes": 152798,
+      "sha256": "c423d3aa6f46c71ade02c85c0cd219d2470bdb33693a4135aabe81528625cf60"
+    },
+    {
+      "id": "sol-light",
+      "name": "Solarized Light",
+      "file": "sol-light-94e4ee34.webp",
+      "sizeBytes": 220978,
+      "sha256": "94e4ee34ea46b4258bff50cfd4b1951bf21995737f79688c6e439a4e47528b5b"
+    },
+    {
+      "id": "tn-night",
+      "name": "Tokyo Night",
+      "file": "tn-night-038cc32c.webp",
+      "sizeBytes": 161658,
+      "sha256": "038cc32c84a2ca6d22a4f78d66d7b1ce9fac884a48c6ed47b2c9dc97553ec366"
+    },
+    {
+      "id": "tn-storm",
+      "name": "Tokyo Night Storm",
+      "file": "tn-storm-63edf6d4.webp",
+      "sizeBytes": 154126,
+      "sha256": "63edf6d4f3674db55fbf1be565dbe33a4cc34eafc2da6e1cf2df6e1e803e8371"
+    },
+    {
+      "id": "tn-moon",
+      "name": "Tokyo Night Moon",
+      "file": "tn-moon-9f9b2dbe.webp",
+      "sizeBytes": 216206,
+      "sha256": "9f9b2dbe1162ddbc4c47c11f9f802bced7154cfeb400f93a93ef35ef49ffc4aa"
+    },
+    {
+      "id": "tn-day",
+      "name": "Tokyo Night Day",
+      "file": "tn-day-74964e9f.webp",
+      "sizeBytes": 278828,
+      "sha256": "74964e9fb264d57a0afbe21f35d29d56e61f71817696d60a655b987fa9c22602"
+    },
+    {
+      "id": "nord",
+      "name": "Nord",
+      "file": "nord-65f62f9a.webp",
+      "sizeBytes": 133470,
+      "sha256": "65f62f9ae1b4d9d648dfd7432788f50570e7cbc03d0490348631b38a3a1ef504"
+    },
+    {
+      "id": "kg-wave",
+      "name": "Kanagawa Wave",
+      "file": "kg-wave-407c43a0.webp",
+      "sizeBytes": 175160,
+      "sha256": "407c43a0d1918969002cea56613b7c0b1acad78e0da921e81c959df48c50b61b"
+    },
+    {
+      "id": "kg-dragon",
+      "name": "Kanagawa Dragon",
+      "file": "kg-dragon-04d8907b.webp",
+      "sizeBytes": 160706,
+      "sha256": "04d8907b8ebdab5fdb57123470d04e06d4afa8e90baef2d16f175e5410c37e5c"
+    },
+    {
+      "id": "kg-lotus",
+      "name": "Kanagawa Lotus",
+      "file": "kg-lotus-cdc20d9f.webp",
+      "sizeBytes": 178622,
+      "sha256": "cdc20d9f85a7e656338e2afb0afe4efffa2b24771fb1fb44c63634749ebb8f71"
+    },
+    {
+      "id": "ef-dark",
+      "name": "Everforest Dark",
+      "file": "ef-dark-85bbe256.webp",
+      "sizeBytes": 167934,
+      "sha256": "85bbe256514e94adca1c4216f408fc0781455ff09ef961d79e4ecee79da6e4a0"
+    },
+    {
+      "id": "ef-light",
+      "name": "Everforest Light",
+      "file": "ef-light-92eb5f60.webp",
+      "sizeBytes": 273350,
+      "sha256": "92eb5f60fa8a0df92096ce7c47f12e0231102e5c4e80c6699f7b4267175c9de6"
+    },
+    {
+      "id": "gm-dark",
+      "name": "Gruvbox Material Dark",
+      "file": "gm-dark-5895ad69.webp",
+      "sizeBytes": 250932,
+      "sha256": "5895ad6973964a1262b97cc721e3ca4c311683ee39b44607d096f1c683d6648e"
+    },
+    {
+      "id": "gm-light",
+      "name": "Gruvbox Material Light",
+      "file": "gm-light-eba8a362.webp",
+      "sizeBytes": 378868,
+      "sha256": "eba8a362ed0cfcf78960e0f7439560a09d0bb74fb5de650c3db6fb355c4fa62c"
+    }
+  ]
+}
