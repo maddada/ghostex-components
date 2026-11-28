@@ -73,7 +73,7 @@
     },
     {
       "id": "polar-night",
-      "name": "Polar Night",
+      "name": "Aurora Fjord",
       "file": "polar-night-a7184e97.webp",
       "sizeBytes": 113042,
       "sha256": "a7184e97de83d179f177f9235edceb50f3fa3cdd515c1244e8ffde8d81589c36"
@@ -220,10 +220,59 @@
     },
     {
       "id": "gm-light",
-      "name": "Gruvbox Material Light",
+      "name": "Hillside Farm",
       "file": "gm-light-eba8a362.webp",
       "sizeBytes": 378868,
       "sha256": "eba8a362ed0cfcf78960e0f7439560a09d0bb74fb5de650c3db6fb355c4fa62c"
+    },
+    {
+      "id": "glasshouse",
+      "name": "Glasshouse",
+      "file": "glasshouse-43f0b73e.webp",
+      "sizeBytes": 52904,
+      "sha256": "43f0b73ee66eac97f8da696d518e6f54ec85666ffc88b1e6a7640308e3ebc707"
+    },
+    {
+      "id": "lilac-hour",
+      "name": "Lilac Hour",
+      "file": "lilac-hour-15e3643b.webp",
+      "sizeBytes": 56936,
+      "sha256": "15e3643b027e17ffeb47de9df9935518b010e3123c745d389f6a07b44048ec8b"
+    },
+    {
+      "id": "morning-tide",
+      "name": "Morning Tide",
+      "file": "morning-tide-b5726f6e.webp",
+      "sizeBytes": 71290,
+      "sha256": "b5726f6e26f7ef24343d90d3266fd335428d8f2e14c0c564a19a06074f093fdc"
+    },
+    {
+      "id": "polar-floe",
+      "name": "Polar Night",
+      "file": "polar-floe-ae6512ed.webp",
+      "sizeBytes": 122146,
+      "sha256": "ae6512edd5673e835ec58a6768f88e68b03384adbd1cb46f1077a0b84d14448e"
+    },
+    {
+      "id": "red-earth",
+      "name": "Red Earth",
+      "file": "red-earth-ef33c19f.webp",
+      "sizeBytes": 126482,
+      "sha256": "ef33c19f7263dda906f69ac4bc5b568a871160546dbc51c624f81a7550753f75"
+    },
+    {
+      "id": "rice-paper",
+      "name": "Rice Paper",
+      "file": "rice-paper-c6fd13ef.webp",
+      "sizeBytes": 92272,
+      "sha256": "c6fd13efca5ed444714735019a77c38cd81697d7a02fcb163c879f6b540d4235"
+    },
+    {
+      "id": "sage-hill",
+      "name": "Sage Hill",
+      "file": "sage-hill-2ac9f90e.webp",
+      "sizeBytes": 131416,
+      "sha256": "2ac9f90ec4da88a9410b62cdf985acd8127e83126f8aed57807e24d1ba84a364"
     }
   ]
 }
